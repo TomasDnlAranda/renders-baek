@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pin de ubicación -->
+  <path d="M32 8 q13 0 13 13 q0 9 -13 27 q-13 -18 -13 -27 q0 -13 13 -13 Z"/>
+  <circle cx="32" cy="21" r="4.5"/>
+  <!-- Línea de calle -->
+  <path d="M18 54 h28"/>
+</svg>

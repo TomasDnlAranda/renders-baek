@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Sillas -->
+  <path d="M10 45 V26 q0 -6 -5.5 -4.5"/>
+  <path d="M54 45 V26 q0 -6 5.5 -4.5"/>
+  <!-- Copas -->
+  <path d="M20.5 21 h7"/>
+  <path d="M20.5 21 q0 6 3.5 6 q3.5 0 3.5 -6"/>
+  <path d="M24 27 v3"/>
+  <path d="M36.5 21 h7"/>
+  <path d="M36.5 21 q0 6 3.5 6 q3.5 0 3.5 -6"/>
+  <path d="M40 27 v3"/>
+  <!-- Centro de mesa -->
+  <circle cx="32" cy="15" r="3.2"/>
+  <path d="M28.5 30 q0 -7 3.5 -7 q3.5 0 3.5 7"/>
+  <!-- Mesa / mantel -->
+  <path d="M15 30 h34"/>
+  <path d="M15 30 v9 M49 30 v9"/>
+  <path d="M15 39 q4.25 5 8.5 0 q4.25 5 8.5 0 q4.25 5 8.5 0 q4.25 5 8.5 0"/>
+</svg>

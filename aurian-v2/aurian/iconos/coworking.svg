@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pantalla del notebook -->
+  <path d="M19 42 V21 q0 -3 3 -3 h20 q3 0 3 3 v21"/>
+  <!-- Curva de crecimiento en pantalla -->
+  <path d="M25 35 l5 -6 l4 4 l6 -8"/>
+  <!-- Base y apoyamanos -->
+  <path d="M11 42 h42 q0 5 -5 5 H16 q-5 0 -5 -5"/>
+</svg>

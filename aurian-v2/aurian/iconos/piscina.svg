@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Escalera de la pileta -->
+  <path d="M26 41 V21 q0 -5 6 -5 q6 0 6 5 v20"/>
+  <path d="M26 24 h12"/>
+  <path d="M26 31 h12"/>
+  <path d="M26 38 h12"/>
+  <!-- Espejo de agua -->
+  <path d="M9 47 q5.5 -4 11 0 q5.5 4 11 0 q5.5 -4 11 0 q5.5 4 11 0"/>
+  <path d="M9 55 q5.5 -4 11 0 q5.5 4 11 0 q5.5 -4 11 0 q5.5 4 11 0"/>
+</svg>

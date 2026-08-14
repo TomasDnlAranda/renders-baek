@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Corrientes de aire cruzadas -->
+  <path d="M10 22 h26 q6 0 6 -5 q0 -4.5 -4.5 -4.5"/>
+  <path d="M10 32 h38 q6 0 6 5 q0 4.5 -4.5 4.5"/>
+  <path d="M10 42 h20 q5 0 5 4 q0 4 -4 4"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Humo -->
+  <path d="M27 8 q-2 3 0 6 q2 3 0 6"/>
+  <path d="M37 8 q-2 3 0 6 q2 3 0 6"/>
+  <!-- Rejilla -->
+  <path d="M23 26 v4.5"/>
+  <path d="M29 26 v5.5"/>
+  <path d="M35 26 v5.5"/>
+  <path d="M41 26 v4.5"/>
+  <!-- Cuenco de la parrilla -->
+  <path d="M15 26 h34"/>
+  <path d="M16 26 q1 12 16 12 q15 0 16 -12"/>
+  <!-- Patas -->
+  <path d="M27 37.5 l-7 14"/>
+  <path d="M37 37.5 l7 14"/>
+  <path d="M23.5 47 h17"/>
+</svg>
